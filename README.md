@@ -71,23 +71,37 @@ If you don't specify a mode, then mode is set to 2
 # Run
 
 [-] Wordlist: pass.lst
+
 [-] Username: Sami09.1
+
 [-] Password: 272
+
 [-] Complete: 45.51%
+
 [-] Attempts: 228
+
 [-] Browsers: 273
+
 [-] Exists: True
 
 # Stop
 
 [-] Wordlist: pass.lst
+
 [-] Username: Sami09.1
+
 [-] Password: Sami123
+
 [-] Complete: 62.67%
+
 [-] Attempts: 314
+
 [-] Browsers: 185
+
 [-] Exists: True
 
 [!] Password Found
+
 [+] Username: Sami09.1
+
 [+] Password: Sami123
