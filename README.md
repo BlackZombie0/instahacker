@@ -27,7 +27,7 @@ optional arguments:
 
 # Usage
 
-python3 instahack.py <username> <wordlist> -m <mode>
+python3 instahack.py <username> <wordlist> -m <mode>                  
 
 # Bots(Threads)
 
